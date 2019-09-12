@@ -1,3 +1,54 @@
-PODFILE CHECKSUM: d34c930c6be4b8dae19c2d22591a776a1e8ee09e
+PODS:
+  - Action (4.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - Differentiator (4.0.1)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SVProgressHUD (2.2.5)
+  - TableViewReloadAnimation (0.0.5)
+  - TWMessageBarManager (1.8.1)
+
+DEPENDENCIES:
+  - Action
+  - RxCocoa (~> 5)
+  - RxDataSources
+  - RxSwift (~> 5)
+  - SVProgressHUD (~> 2.2)
+  - TableViewReloadAnimation (~> 0.0)
+  - TWMessageBarManager
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Action
+    - Differentiator
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SVProgressHUD
+    - TableViewReloadAnimation
+    - TWMessageBarManager
+
+SPEC CHECKSUMS:
+  Action: 0d14986aad0f1330aa27ce65d0cdeaacbb63d91c
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TableViewReloadAnimation: f3a4c4048efbc56331be98075f26a2e533a14c16
+  TWMessageBarManager: fd84e7948ba7968a2b5d9454859135761214ec56
+
+PODFILE CHECKSUM: 4444901f8f8acd25242a614dc55c4ed8b263b7bb
 
 COCOAPODS: 1.7.5

@@ -6,5 +6,11 @@ target 'Weather' do
   use_frameworks!
 
   # Pods for Weather
-
+  pod 'RxSwift', '~> 5'
+  pod 'RxCocoa', '~> 5'
+  pod 'RxDataSources'
+  pod 'Action'
+  pod 'SVProgressHUD', '~> 2.2'
+  pod 'TWMessageBarManager'
+  pod 'TableViewReloadAnimation', '~> 0.0'
 end
